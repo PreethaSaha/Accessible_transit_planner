@@ -1,0 +1,141 @@
+stop_name,stop_lat,stop_lon,route_long_name
+Addison-Blue,41.94738,-87.71906,Blue Line
+Clark/Lake (Subway),41.885737,-87.630886,Blue Line
+Cumberland,41.984246,-87.838028,Blue Line
+Forest Park,41.874257,-87.817318,Blue Line
+Harlem-O'Hare,41.98227,-87.8089,Blue Line
+Illinois Medical District,41.875706,-87.673932,Blue Line
+Jackson-Blue,41.878183,-87.629296,Blue Line
+Jefferson Park,41.970634,-87.760892,Blue Line
+Kedzie-Homan,41.874341,-87.70604,Blue Line
+Logan Square,41.929728,-87.708541,Blue Line
+O'Hare,41.97766526,-87.90422307,Blue Line
+Rosemont,41.983507,-87.859388,Blue Line
+UIC-Halsted,41.875474,-87.649707,Blue Line
+Western-O'Hare,41.916157,-87.687364,Blue Line
+Addison-Brown,41.947028,-87.674642,Brown Line
+Armitage,41.918217,-87.652644,Brown Line
+Belmont,41.939751,-87.65338,Brown Line
+Chicago-Brown,41.89681,-87.635924,Brown Line
+Clark/Lake (Elevated),41.885737,-87.630886,Brown Line
+Damen-Brown,41.966286,-87.678639,Brown Line
+Diversey,41.932732,-87.653131,Brown Line
+Francisco,41.966046,-87.701644,Brown Line
+Fullerton,41.925051,-87.652866,Brown Line
+Harold Washington Library,41.876862,-87.628196,Brown Line
+Irving Park-Brown,41.954521,-87.674868,Brown Line
+Kedzie-Brown,41.965996,-87.708821,Brown Line
+Kimball,41.967901,-87.713065,Brown Line
+Merchandise Mart,41.888969,-87.633924,Brown Line
+Montrose-Brown,41.961756,-87.675047,Brown Line
+Paulina,41.943623,-87.670907,Brown Line
+Quincy,41.878723,-87.63374,Brown Line
+Rockwell,41.966115,-87.6941,Brown Line
+Sedgwick,41.910409,-87.639302,Brown Line
+Southport,41.943744,-87.663619,Brown Line
+Washington/Wabash,41.88322,-87.626189,Brown Line
+Washington/Wells,41.882695,-87.63378,Brown Line
+Wellington,41.936033,-87.653266,Brown Line
+Western-Brown,41.966163,-87.688502,Brown Line
+35-Bronzeville-IIT,41.831677,-87.625826,Green Line
+43rd,41.816462,-87.619021,Green Line
+47th-Green,41.809209,-87.618826,Green Line
+51st,41.80209,-87.618487,Green Line
+Ashland-Lake,41.885269,-87.666969,Green Line
+Ashland/63rd,41.77886,-87.663766,Green Line
+California-Green,41.88422,-87.696234,Green Line
+Central-Green,41.887389,-87.76565,Green Line
+Cermak-McCormick Place,41.853115,-87.626402,Green Line
+Cicero-Green,41.886519,-87.744698,Green Line
+Clark/Lake (Elevated),41.885737,-87.630886,Green Line
+Clinton-Green,41.885678,-87.641782,Green Line
+Conservatory,41.884904,-87.716523,Green Line
+Damen-Green,41.88497405,-87.67689149,Green Line
+East 63rd-Cottage Grove,41.780309,-87.605857,Green Line
+Garfield-Green,41.795172,-87.618327,Green Line
+Halsted-Green,41.778943,-87.644244,Green Line
+Harlem-Green,41.886848,-87.803176,Green Line
+Indiana,41.821732,-87.621371,Green Line
+Kedzie-Green,41.884321,-87.706155,Green Line
+King Drive,41.78013,-87.615546,Green Line
+Laramie,41.887163,-87.754986,Green Line
+Morgan,41.88557676,-87.65212993,Green Line
+Pulaski-Green,41.885412,-87.725404,Green Line
+Roosevelt (Elevated),41.867405,-87.62659,Green Line
+Washington/Wabash,41.88322,-87.626189,Green Line
+35th/Archer,41.829353,-87.680622,Orange Line
+Ashland-Orange,41.839234,-87.665317,Orange Line
+Clark/Lake (Elevated),41.885737,-87.630886,Orange Line
+Halsted-Orange,41.84678,-87.648088,Orange Line
+Harold Washington Library,41.876862,-87.628196,Orange Line
+Kedzie-Orange,41.804236,-87.704406,Orange Line
+Midway,41.78661,-87.737875,Orange Line
+Pulaski-Orange,41.799756,-87.724493,Orange Line
+Quincy,41.878723,-87.63374,Orange Line
+Roosevelt (Elevated),41.867405,-87.62659,Orange Line
+Washington/Wabash,41.88322,-87.626189,Orange Line
+Washington/Wells,41.882695,-87.63378,Orange Line
+Western-Orange,41.804546,-87.684019,Orange Line
+18th,41.857908,-87.669147,Pink Line
+54th/Cermak,41.85177331,-87.75669201,Pink Line
+Ashland-Lake,41.885269,-87.666969,Pink Line
+California-Cermak,41.854109,-87.694774,Pink Line
+Central Park,41.853839,-87.714842,Pink Line
+Cicero-Cermak,41.85182,-87.745336,Pink Line
+Clark/Lake (Elevated),41.885737,-87.630886,Pink Line
+Clinton-Green,41.885678,-87.641782,Pink Line
+Damen-Cermak,41.854517,-87.675975,Pink Line
+Harold Washington Library,41.876862,-87.628196,Pink Line
+Kedzie-Cermak,41.853964,-87.705408,Pink Line
+Kostner,41.853751,-87.733258,Pink Line
+Morgan,41.88557676,-87.65212993,Pink Line
+Polk,41.871551,-87.66953,Pink Line
+Pulaski-Cermak,41.853732,-87.724311,Pink Line
+Quincy,41.878723,-87.63374,Pink Line
+Washington/Wabash,41.88322,-87.626189,Pink Line
+Washington/Wells,41.882695,-87.63378,Pink Line
+Western-Cermak,41.854225,-87.685129,Pink Line
+Armitage,41.918217,-87.652644,Purple Line
+Belmont,41.939751,-87.65338,Purple Line
+Chicago-Brown,41.89681,-87.635924,Purple Line
+Clark/Lake (Elevated),41.885737,-87.630886,Purple Line
+Davis,42.04771,-87.683543,Purple Line
+Diversey,41.932732,-87.653131,Purple Line
+Fullerton,41.925051,-87.652866,Purple Line
+Harold Washington Library,41.876862,-87.628196,Purple Line
+Howard,42.019063,-87.672892,Purple Line
+Linden,42.073153,-87.69073,Purple Line
+Merchandise Mart,41.888969,-87.633924,Purple Line
+Quincy,41.878723,-87.63374,Purple Line
+Sedgwick,41.910409,-87.639302,Purple Line
+Washington/Wabash,41.88322,-87.626189,Purple Line
+Washington/Wells,41.882695,-87.63378,Purple Line
+Wellington,41.936033,-87.653266,Purple Line
+Wilson-North Outer,41.964273,-87.657588,Purple Line
+Wilson-South Outer,41.964273,-87.657588,Purple Line
+47th-Red,41.810318,-87.63094,Red Line
+63rd,41.780536,-87.630952,Red Line
+69th,41.768367,-87.625724,Red Line
+79th,41.750419,-87.625112,Red Line
+87th,41.735372,-87.624717,Red Line
+95th,41.722377,-87.624342,Red Line
+Addison-Red,41.947428,-87.653626,Red Line
+Belmont,41.939751,-87.65338,Red Line
+Cermak-Chinatown,41.853206,-87.630968,Red Line
+Chicago-Red,41.896671,-87.628176,Red Line
+Clark/Division,41.90392,-87.631412,Red Line
+Fullerton,41.925051,-87.652866,Red Line
+Garfield-Red,41.79542,-87.631157,Red Line
+Grand-Red,41.891665,-87.628021,Red Line
+Granville,41.993664,-87.659202,Red Line
+Howard,42.019063,-87.672892,Red Line
+Jackson-Red,41.878153,-87.627596,Red Line
+Lake,41.884809,-87.627813,Red Line
+Loyola,42.001073,-87.661061,Red Line
+Roosevelt (Subway),41.867368,-87.627402,Red Line
+Sox-35th,41.831191,-87.630636,Red Line
+Wilson-North Inner,41.964273,-87.657588,Red Line
+Wilson-South Inner,41.964273,-87.657588,Red Line
+Dempster-Skokie,42.038951,-87.751919,Yellow Line
+Howard,42.019063,-87.672892,Yellow Line
+Oakton-Skokie,42.02624348,-87.74722084,Yellow Line

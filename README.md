@@ -37,3 +37,13 @@ It's not just useful for wheelchair users — people with strollers, seniors, or
  
  - Parse CTA API feeds to adjust suggested routes dynamically.
 
+# Results
+
+## Accessible CTA L stations map
+This map generated using Folium shows accessible CTA L stations, color-coded by their respective routes. Black markers indicate stations that are common across multiple routes. 
+
+You can view the map by clicking the link below:
+
+[View the interactive CTA L Stations Map](cta_l_stations_map.html)
+
+

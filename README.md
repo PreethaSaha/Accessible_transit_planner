@@ -42,6 +42,9 @@ It's not just useful for wheelchair users — people with strollers, seniors, or
 ## Accessible CTA L stations map
 This map generated using Folium shows accessible CTA L stations, color-coded by their respective routes. Black markers indicate stations that are common across multiple routes. 
 
+![Accessible CTA L Stations Map](map_accessible.png)
+
+
 You can view the map by clicking the link below:
 
 [View the interactive CTA L Stations Map](cta_accessible_stations_map.html)

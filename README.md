@@ -44,6 +44,6 @@ This map generated using Folium shows accessible CTA L stations, color-coded by 
 
 You can view the map by clicking the link below:
 
-[View the interactive CTA L Stations Map](cta_l_stations_map.html)
+[View the interactive CTA L Stations Map](cta_accessible_stations_map.html)
 
 

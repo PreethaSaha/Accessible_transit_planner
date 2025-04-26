@@ -16,5 +16,24 @@ to plan the most efficient, disability-friendly routes across the city.
 
 It's not just useful for wheelchair users — people with strollers, seniors, or even travelers with heavy luggage benefit too.
 
+# How it works?
+ 
+ ### Load GTFS data
+  - Reads stops.txt, routes.txt, trips.txt, stop_times.txt from CTA's official GTFS feed.
 
+### Filter for rail services and find accessible stations
+
+- Selects only subway/metro services (route_type == 1) and filters stations with wheelchair_boarding == 1.
+
+### Color-code by Line
+
+- Displays stations and routes in classic CTA colors (Red, Blue, Green, etc.). Shared stations are highlighted in black.
+
+### Map generation
+
+ - Creates an interactive Folium map, displayed directly in Jupyter notebooks or other Python environments.
+
+### Real-time alerts
+ 
+ - Parse CTA API feeds to adjust suggested routes dynamically.
 

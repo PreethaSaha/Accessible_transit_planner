@@ -50,4 +50,8 @@ You can view the map by clicking the link below:
 
 [View the interactive CTA L Stations Map](cta_accessible_stations_map.html)
 
+# Future scope:
+
+This prototype can be extended to Metra where the level of complexity increases - since the cost of the ride varies across routes. 
+
 
